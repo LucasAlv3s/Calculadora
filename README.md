@@ -1,3 +1,5 @@
 # Calculadora
 
-<img src="https://github.com/LucasAlv3s/Calculadora/assets/images/Calculadora.png" alt="calculadora por Lucas Alves.">
+<div align="center">
+    <h6>Calculadora com HTML5, CSS3 & JavaScript.</h6>
+</div>
